@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Faisa\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Release\
+C:\Users\Faisa\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\
 DesktopContactsApp
 none
 false
-TRACE
+DEBUG;TRACE
 C:\Users\Faisa\source\repos\DesktopContactsApp\DesktopContactsApp\App.xaml
 2572449841
 2-401712462
